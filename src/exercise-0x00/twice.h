@@ -1,3 +1,3 @@
 #include <string>
 
-std::string letter_seen_twice(std::string text);
+void letter_seen_twice(std::string text);
